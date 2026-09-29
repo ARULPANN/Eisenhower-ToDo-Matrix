@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Eisenhower-ToDo-Matrix</string>
+    <string name="title_activity_main">Eisenhower-ToDo-Matrix</string>
+    <string name="package_name">com.matrix.app</string>
+    <string name="custom_url_scheme">com.matrix.app</string>
+</resources>
